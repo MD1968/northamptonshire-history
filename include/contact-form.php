@@ -8,7 +8,7 @@ require_once('php-mailer/PHPMailerAutoload.php');
 $mail = new PHPMailer();
 
 // Enter your email address. If you need multiple email recipes simply add a comma: email@domain.com, email2@domain.com
-$to = "mark@silverheath.co.uk";
+$to = "admin@northamptonshirehistory.com";
 
 // Add your reCaptcha Secret key if you wish to activate google reCaptcha security
 
