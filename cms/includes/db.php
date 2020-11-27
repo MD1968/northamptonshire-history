@@ -1,9 +1,10 @@
 <?php ob_start();
 
-$db['db_host'] = "localhost";
-$db['db_user'] = "root";
-$db['db_pass'] = "";
-$db['db_name'] = "cms";
+
+$db['db_host'] = "mysql.hostinger.com";
+$db['db_user'] = "u740267581_admin";
+$db['db_pass'] = "Admin1234!";
+$db['db_name'] = "u740267581_history";
 
 foreach($db as $key => $value){
 define(strtoupper($key), $value);

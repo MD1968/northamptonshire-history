@@ -78,7 +78,7 @@
 
                     <div class="form-group">
 
-                        <a href="forgot.php?forgot=<?php echo uniqid(true); ?>">Forgot Password</a>
+                        <a href="../contact.php">Forgot Password please contact us</a>
 
 
                     </div>

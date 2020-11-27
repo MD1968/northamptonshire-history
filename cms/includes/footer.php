@@ -1,4 +1,4 @@
-    <hr>
+
                 <footer class="footer text-center pt-2 pb-5 copyright text-muted">
 
 

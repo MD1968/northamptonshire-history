@@ -62,7 +62,9 @@
                         <a href="/cms/registration">Registration</a>
                     </li>
                                   
-                    
+
+                                     
+                   
     <?php 
 
     if(isset($_SESSION['user_role'])) {
@@ -81,7 +83,10 @@
     
     ?>
 
-           
+             <li>
+                        <a href="../contact.php">Contact</a>
+                    </li>
+                    
                 </ul>
             </div>
             <!-- /.navbar-collapse -->

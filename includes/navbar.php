@@ -14,6 +14,7 @@
                                 <ul>
                                     <li><a href="#section-about">About</a>
                                     <li><a href="#section-podcast">Podcasts</a>
+                                     <li><a href="contact.php">Contact</a>
                                
                                     </li>
                                 </ul>
